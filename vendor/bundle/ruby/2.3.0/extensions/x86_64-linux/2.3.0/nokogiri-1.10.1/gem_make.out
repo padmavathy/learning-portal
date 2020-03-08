@@ -1,0 +1,5 @@
+current directory: /home/padmavathy/workspace/exam-prep-api/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.1/ext/nokogiri
+/usr/bin/ruby2.3 -r ./siteconf20200302-9627-19lrigz.rb extconf.rb --use-system-libraries
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
