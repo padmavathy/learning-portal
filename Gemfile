@@ -7,7 +7,7 @@ end
 
 gem 'rails', '~> 5.0.7', '>= 5.0.7.2'
 gem 'pg'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 4.3'
 gem 'jbuilder', '~> 2.6'
 
 group :development, :test do
